@@ -55,7 +55,7 @@ This project is an advanced face recognition system developed to recognize faces
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/advanced-face-recognition.git
+    git clone https://github.com/PR-ODINSON/Face_recognition_model.git
     cd advanced-face-recognition
     ```
 
