@@ -1,4 +1,4 @@
-# Advanced Face Recognition System
+# Advanced Face Recognition System.
 
 ## Project Overview
 
